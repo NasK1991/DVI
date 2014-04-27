@@ -1,0 +1,490 @@
+fileFormatVersion: 2
+guid: 845eab90a96237347a885c69e58dc96f
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 222
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 188
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_15
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_18
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 154
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_25
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_27
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_29
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_30
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 86
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_36
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_37
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_38
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_40
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_41
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 52
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_45
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: tiles_48
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 18
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
